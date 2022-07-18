@@ -1,5 +1,5 @@
 # Virtual-mouse
-Install pycharm
+Install pycharm.
 This project works with these dependencies:
 mediapipe=0.8.8 
 python 3.7.9
