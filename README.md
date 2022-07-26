@@ -1,4 +1,5 @@
 # Virtual-mouse
+Here you can perform mouse movement, Left, Right and middle click operations.
 Install pycharm.
 This project works with these dependencies:
 mediapipe=0.8.8 
